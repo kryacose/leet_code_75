@@ -13,3 +13,10 @@ This repository contains my solutions for [LeetCode 75](https://leetcode.com/stu
 7. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ([c++](./cpp/238.cpp), [python](./python/238.py))
 8. [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) ([c++](./cpp/334.cpp), [python](./python/334.py))
 9. [443. String Compression](https://leetcode.com/problems/string-compression/) ([c++](./cpp/443.cpp), [python](./python/443.py))
+
+### Two Pointers
+
+10. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) ([c++](./cpp/283.cpp), [python](./python/283.py))
+11. [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ([c++](./cpp/392.cpp), [python](./python/392.py))
+12. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ([c++](./cpp/11.cpp), [python](./python/11.py))
+13. [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) ([c++](./cpp/1679.cpp), [python](./python/1679.py))
