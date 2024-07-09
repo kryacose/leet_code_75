@@ -20,3 +20,10 @@ This repository contains my solutions for [LeetCode 75](https://leetcode.com/stu
 11. [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ([c++](./cpp/392.cpp), [python](./python/392.py))
 12. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ([c++](./cpp/11.cpp), [python](./python/11.py))
 13. [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) ([c++](./cpp/1679.cpp), [python](./python/1679.py))
+
+## Sliding Window
+
+14. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ([c++](./cpp/643.cpp), [python](./python/643.py))
+15. [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) ([c++](./cpp/1456.cpp), [python](./python/1456.py))
+16. [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) ([c++](./cpp/1004.cpp), [python](./python/1004.py))
+17. [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) ([c++](./cpp/1493.cpp), [python](./python/1493.py))
