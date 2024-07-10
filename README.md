@@ -27,3 +27,8 @@ This repository contains my solutions for [LeetCode 75](https://leetcode.com/stu
 15. [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) ([c++](./cpp/1456.cpp), [python](./python/1456.py))
 16. [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) ([c++](./cpp/1004.cpp), [python](./python/1004.py))
 17. [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) ([c++](./cpp/1493.cpp), [python](./python/1493.py))
+
+## Prefix Sum
+
+18. [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) ([c++](./cpp/1732.cpp), [python](./python/1732.py))
+19. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) ([c++](./cpp/724.cpp), [python](./python/724.py))
