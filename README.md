@@ -32,3 +32,7 @@ This repository contains my solutions for [LeetCode 75](https://leetcode.com/stu
 
 18. [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) ([c++](./cpp/1732.cpp), [python](./python/1732.py))
 19. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) ([c++](./cpp/724.cpp), [python](./python/724.py))
+
+## Hash Map / Set
+
+20. [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) ([c++](./cpp/2215.cpp), [python](./python/2215.py))
