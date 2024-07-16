@@ -36,3 +36,4 @@ This repository contains my solutions for [LeetCode 75](https://leetcode.com/stu
 ## Hash Map / Set
 
 20. [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) ([c++](./cpp/2215.cpp), [python](./python/2215.py))
+21. [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) ([c++](./cpp/1207.cpp), [python](./python/1207.py))
